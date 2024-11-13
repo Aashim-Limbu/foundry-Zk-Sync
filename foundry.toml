@@ -4,5 +4,4 @@ out = "out"
 libs = ["lib"]
 solc = "0.8.25"
 
-[profile.zksolc]
-version = "1.5.7"
+
